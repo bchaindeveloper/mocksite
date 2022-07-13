@@ -1,0 +1,61 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: greenyellow;
+}
+
+h3 {
+    color: black;
+    padding-left: 0%;
+    font-weight: bold;
+    font-family: Helvetica;
+
+}
+
+p {
+    color: black;
+    padding-left: 0%;
+}
+
+#p2 {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+#p3 {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+#p4 {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+#h {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: palevioletred;
+}
+
+#hh {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: blue;
+}
